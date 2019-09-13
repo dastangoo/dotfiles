@@ -1,3 +1,4 @@
+```
 alias.logmin=log --oneline
 alias.logdec=log --decorate
 alias.logfull=log --oneline --decorate --graph
@@ -11,3 +12,4 @@ alias.ci=commit
 alias.s=status -s
 alias.lg=log --oneline --decorate --all --graph
 alias.undo=reset --soft HEAD^
+```
